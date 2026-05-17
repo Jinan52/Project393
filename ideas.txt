@@ -1,0 +1,57 @@
+Final Project Ideas – Digger Course
+
+Student: Jinan Assi
+
+
+----------------------------------------
+Idea 1: Magic Digger
+----------------------------------------
+
+Description:
+A digging-based game inspired by Digger, where the player explores underground tunnels and collects gold while avoiding enemies.
+
+Unique Feature:
+The game includes magical stones that grant special abilities:
+- Speed boost
+- Freezing enemies
+- Double digging power
+
+Gameplay:
+The player moves through the map, digs tunnels, collects gold, and uses abilities strategically to survive and win.
+
+Why it is interesting:
+Combines classic gameplay with dynamic abilities that change strategy and player decisions.
+
+
+----------------------------------------
+Idea 2: Time Maze
+----------------------------------------
+
+Description:
+A maze game where the player must escape enemies and reach the goal.
+
+Unique Feature:
+The player can rewind time for a few seconds to fix mistakes or escape dangerous situations.
+
+Gameplay:
+The player navigates a maze while avoiding enemies. If trapped, they can reverse time and try a different path.
+
+Why it is interesting:
+Introduces a time-based mechanic that adds depth and creativity to standard maze gameplay.
+
+
+----------------------------------------
+Idea 3: Eco Defender
+----------------------------------------
+
+Description:
+A strategy-based game where the player cleans pollution from the environment.
+
+Unique Feature:
+The player must balance cleaning and defending areas from enemies that re-contaminate them.
+
+Gameplay:
+Collect resources, clean areas, and build defenses to protect clean zones.
+
+Why it is interesting:
+Adds a meaningful theme (environment) with strategic gameplay elements.
